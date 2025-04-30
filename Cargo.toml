@@ -1,0 +1,5 @@
+[workspace]
+members = ["bundles/bindings", "bundles/library"]
+
+[workspace.dependencies]
+wit-bindgen = { version = "0.41" }

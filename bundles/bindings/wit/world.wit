@@ -1,0 +1,5 @@
+package superheroes:types;
+// thing
+world superhero {
+  export wasi:http/incoming-handler@0.2.2;
+}
